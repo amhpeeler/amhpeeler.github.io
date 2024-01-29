@@ -1,5 +1,10 @@
-Extracurricular Activites
+Hi!
 
-During my time in college, I've been able to use my spare time for some extracurriculars that have helped me in many ways! For one, I was able to serve as the Community Service Chair for CSU's National Society of Leadership and Success (NSLS) branch. In that role I oversaw the many projects that the club was doing around the community, my favorite being the annual "Safe Halloween" that takes place in Morrow, Ga! At the Safe Halloween, CSU's NSLS branch is priveledged to give out candy and serve the local kids of Morrow for an evening.
+Welcome to my project portfolio! 
 
-On top of everything, I was able to start a Bible study club on campus! "Truth Talk" was born out of a desire to see Jesus' name be shared and talked about at Clayton State, and I'm proud to be a part of such an initiative. Overseeing Truth Talk has consisted of planning and organizing weekly Bible studies, monthly worship nights, and facilitating outreach at CSU's orientation events.
+**About Me!**
+I am graduating in May 2024 from Clayton State University with a Bachelor's Degree in Computer Science! While here, I have had the privilege of being a part of the Launchpad Academy which involves closely working with Intuit Mailchimp and gaining real world experience in different technical aspects of a business. 
+
+I am currently interning at Georgia Institute of Technology in the Mechanical Engineering department gaining valuable skills in database creation and management, device management, Python, networking, and device troubleshooting and repair. I am currently working on a project with the Invention Studio and the team of interns to create an augmented reality system.
+
+
