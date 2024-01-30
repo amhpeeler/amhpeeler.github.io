@@ -6,6 +6,7 @@ _Hi!_ My name is Anna Marie Tinsley!
 
 I am graduating in May 2024 from Clayton State University with a Bachelor's Degree in Computer Science. I have a passion for starting projects, helping other people achieve their goals, and evaluating solutions! I love working with Python, Databases, and SQL and am currently looking for work in software development or data engineering!
 
+[Here's a link to my Project page](./projects.html).
 
 ### My Experience:
 
