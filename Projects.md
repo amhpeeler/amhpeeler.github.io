@@ -13,5 +13,6 @@ During my experience at Intuit Mailchimp, I was able to work with two teamates t
 #### Georgia Tech Inventory Project
 While interning at Georgia Tech, a group of interns and I worked on a system to simplify inventoring Georgia Tech products. You can view that project on Github [here](https://github.com/amhpeeler/gtInventoryApp).
 
+
 [Back](./)
 
